@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'OpenSauceSans';
+    src: url('OpenSauceSans-SemiBold.ttf');
+}
+
+body {
+    font-family: 'CustomFont', Arial, sans-serif;
+    background-color: #f5be49;
+}
+
+.bg {
+    background-color: #fffffc;
+    border-radius: 25px;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+    box-shadow: 10px 10px;
+}
+
+img {
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+    box-shadow: 10px 10px;
+    width: 100%;
+    max-width: 400px;
+}
